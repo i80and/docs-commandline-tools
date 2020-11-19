@@ -657,3 +657,10 @@ an error.
    importing with the ``replace-by-name`` strategy. ``FunctionZ`` was
    imported as a new entity and assigned a system-generated ``id``
    value.
+
+
+And Now We Test
+---------------
+
+* :option:`realm-cli login --api-key`
+* :program:`realm-cli login`
