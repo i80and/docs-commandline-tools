@@ -1,8 +1,8 @@
 name = "database-tools"
 title = "MongoDB Database Tools"
 
-intersphinx = [ "https://docs.mongodb.com/manual/objects.inv", 
-                "https://docs.atlas.mongodb.com/objects.inv", 
+intersphinx = [ "https://docs.mongodb.com/manual/objects.inv",
+                "https://docs.atlas.mongodb.com/objects.inv",
                 "https://docs.mongodb.com/compass/current/objects.inv"]
 
 toc_landing_pages = ["installation"]
@@ -22,3 +22,26 @@ pgp-fingerprint-fmt = "E162 F504 A20C DF15 827F  718D 4B7C 549A 058F 8B6B"
 windows-sha256 = "AF5AF79EFE540DCDDC2825A396C71FCFC4FEB463BC9CADDCCDE20AD126321CCC"
 pgp-short-fingerprint = "0x4B7C549A058F8B6B"
 source-available = "`source available and free to use <https://github.com/mongodb/mongo/>`_"
+
+realm = "realm"
+realms = "realms"
+client-database = "Realm Database"
+atlas = "MongoDB Atlas"
+atlas-short = "Atlas"
+compass = "MongoDB Compass"
+compass-short = "Compass"
+charts = "MongoDB Charts"
+charts-short = "Charts"
+service = "MongoDB Realm" # product (backend + sdks)
+service-short = "Realm" # use as shorthand, AND as a prefix for features
+backend = "MongoDB Realm"
+backend-short = "Realm"
+sync = "Realm Sync"
+sync-short = "Sync" # feature/product name, NOT verb
+backend-schema = "Realm Schema"
+frontend-schema = "Realm Object Model"
+cli-bin = "``realm-cli``" # binary -- DO NOT USE IN LINKS! Will break them.
+cli = "Realm CLI"
+ui = "Realm UI"
+app = "Realm app"
+leftnav = "left navigation menu"
